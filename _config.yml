@@ -1,5 +1,3 @@
 theme: minima
 title: "Linguistics-Blog"
 author: "Sahil Vijay"
-
-<object data="{{ post.assets/IPA_Kiel_2020_full.pdf }}" width="1000" height="1000" type='application/pdf'/>
